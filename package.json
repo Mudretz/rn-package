@@ -2,8 +2,8 @@
   "name": "rn-package",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.jsx",
-  "source": "src/index.jsx",
+  "main": "src/index.tsx",
+  "source": "src/index.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
